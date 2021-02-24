@@ -1,0 +1,13 @@
+table th {
+    background-color: cadetblue;
+    font-size: 1.2em;
+    text-decoration: underline;
+}
+
+table td {
+    border: 2px solid gray;
+}
+
+td:hover {
+    box-shadow: rgba(0, 0, 0, 0.5);
+}
